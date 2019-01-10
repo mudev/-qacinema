@@ -30,6 +30,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+assets:
+  compress:
+    js: true
+  sources:
+    - _assets/css
+    - _assets/js
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
