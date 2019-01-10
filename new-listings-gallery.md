@@ -9,7 +9,15 @@ permalink: /new-listings/
     <h4>Aquaman</h4>
     <img src="../assets/img/Aquaman.jpg"/>
   </li>
-<li>Mary Poppins</li>
-<li>The Favourite</li>
-<li>Stan & Ollie</li>
+<li>
+  <h4>Mary Poppins</h4>
+  <img src="../assets/img/Mary_Poppins.jpg"/>
+</li>
+<li>
+  <h4>The Favourite</h4>
+  <img src="../assets/img/The_Favourite.jpg"/>
+</li>
+<li>
+  <h4>Stan & Ollie</h4>
+  <img src="../assets/img/Stan_and_Ollie.jpg"/></li>
 </ul>
