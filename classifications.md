@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "New Releases"
-permalink: /new-releases/
+title:  "Classifications"
+permalink: /classifications/
 ---
 
 
