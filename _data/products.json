@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Movie",
+    "description": "This is the movie description",
+    "actors": "John",
+    "director": "Sam",
+    "screentimes": "1400-1800"
+  },
+  {}
+]
