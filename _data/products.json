@@ -1,10 +1,38 @@
 [
   {
-    "name": "Movie",
-    "description": "This is the movie description",
-    "actors": "John",
-    "director": "Sam",
-    "screentimes": "1400-1800"
+    "name": "Aquaman",
+    "image": "../assets/img/aquaman.jpg",
+    "link": "/aquaman/",
+    "description": "Wet aint the word",
+    "actors": "Jason Momoa",
+    "director": "James Wan",
+    "screentimes": "1720 1900 2100"
   },
-  {}
+  {
+    "name": "Mary Poppins",
+    "image": "../assets/img/mary_poppins.jpg",
+    "link": "/poppins",
+    "description": "And we're off again",
+    "actors": "Emily Blunt",
+    "director": "James Marshall",
+    "screentimes": "1200 1400 1700"
+  },
+  {
+    "name": "Stan and Ollie",
+    "image": "../assets/img/stan_and_ollie.jpg",
+    "link": "/stanollie/",
+    "description": "Him and Him",
+    "actors": "Steve Coogan, John C. Reilly",
+    "director": "Jon S. Baird",
+    "screentimes": "1300 1800"
+  },
+  {
+    "name": "The Favourite",
+    "image": "../assets/img/the_favourite.jpg",
+    "link": "/favourite/",
+    "description": "Olivia gets her royal on",
+    "actors": "Olivia Coleman",
+    "director": "Yorgos Lanthimos",
+    "screentimes": "1200 1500 1800"
+  }
 ]
